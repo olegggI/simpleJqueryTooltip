@@ -1,6 +1,6 @@
 (function($){
 	$.fn.tooltip = function( options ) {
-		
+		//simple settings
 		var settings = $.extend( {
 		      'backgroundColor' : 'blue',
 		      'margin' : 10,
